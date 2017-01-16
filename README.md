@@ -169,6 +169,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Timetable app
 
+### Testing helper (chrome extention)
+
+Based on [https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt](naughty-strings), make an extention to use strings on site interface/inpute to check for vulnerabilities.
+
 ### ToDo List (Classic)
 
 ### Travel app
