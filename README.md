@@ -4,7 +4,6 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-
 ## Ideas
 
 ### Arcade Shooter (Galaga etc)
@@ -114,6 +113,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Note taking app
 
+### NIM game
+
 ### Offline book reader
 
 ### Pedometer
@@ -200,9 +201,31 @@ This will take in a full URL (https://foo.bar) and return it in a string that co
 
 Using the YouTube API, your app should be able to take in a search string and return the videos for that search. For example, if I wanted to watch David Bowie's Starman, it should return just those videos. However, if I'm not being picky and just want to listen to David Bowie, it should return any number of results that pertain to Bowie. An added feature would be able to have it choose at random what video is returned, or limit how many results are returned in one search.
 
+## Opensourced Apps, that you can scavenge and redo (all currently build with react)
+
+### [ColorFlood](https://github.com/chuckha/ColorFlood)
+### [Tetris](https://github.com/slugo/redux-tetris)
+### [Tetris - 2](https://github.com/skidding/flatris)
+### [Pan and Zoom](https://github.com/chrvadala/react-svg-pan-zoom)
+### [Dodging game](https://github.com/bbstilson/react-dodgy-game)
+### [Trivia game](https://github.com/ccoenraets/react-trivia)
+### [Gradient explorer](https://github.com/jxnblk/shade)
+### [Sketch pad](https://github.com/svrcekmichal/react-sketchpad)
+### [Master mind Games](https://github.com/sztamas/mastermind)
+### [Calculator](http://codepen.io/mjijackson/full/xOzyGX)
+### [Photo Feed](https://github.com/lkazberova/react-photo-feed)
+### [Netflix clone](https://github.com/fullstackreact/react-daily-ui/tree/master/003-landing-page)
+### [Solitare](https://github.com/pl12133/react-solitaire)
+### [3d Game](https://github.com/javierbyte/clashjs)
+### [iOs Stock clone](https://github.com/7kfpun/FinanceReactNative)
+### [Text to blog transformer](https://github.com/gatsbyjs/gatsby)
+### [Soundcloud clone](https://github.com/andrewngu/sound-redux)
+
+## List of opened APIs for insiration and data and stuff
+
+### [Public APIs](https://github.com/toddmotto/public-apis)
 
 ## License
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [TasteJS](http://tastejs.com) has waived all copyright and related or neighboring rights to this work.
