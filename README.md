@@ -228,6 +228,7 @@ Using the YouTube API, your app should be able to take in a search string and re
 ## List of opened APIs for insiration and data and stuff
 
 ### [Public APIs](https://github.com/toddmotto/public-apis)
+### [Awesome APIs](https://github.com/abhishekbanthia/Public-APIs)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
